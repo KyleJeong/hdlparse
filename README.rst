@@ -9,6 +9,13 @@ This library is used by the `Symbolator <https://github.com/kevinpt/symbolator>`
 
 For VHDL this library can extract component, subprogram, type, subtype, and constant declarations from a package. For Verilog it can extract module declarations (both 1995 and 2001 syntax).
 
+I (Kyle) will update this module to support Verilog better.
+- update list
+  1.
+  2.
+  3.
+  4.
+ 
 
 Requirements
 ------------
